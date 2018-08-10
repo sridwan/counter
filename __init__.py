@@ -1,2 +1,2 @@
-from .counter import RedisCounter, KeyExist, CountLimit
+from .counter import RedisCounter, KeyExist, KeyNotFound, CountLimit
 
